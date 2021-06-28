@@ -1,0 +1,4 @@
+C:\Users\evand\source\repos\Calculator_CPP\Debug\Calculator_CPP.vcxprojAssemblyReference.cache
+C:\Users\evand\source\repos\Calculator_CPP\Debug\Calculator_CPP.Form1.resources
+C:\Users\evand\source\repos\Calculator_CPP\Debug\Calculator_CPP.vcxproj.GenerateResource.cache
+C:\Users\evand\source\repos\Calculator_CPP\Debug\Calculator_CPP.exe
